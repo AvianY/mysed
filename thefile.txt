@@ -1,0 +1,6 @@
+This is an example line
+and another one.
+but next line is empty
+
+and this one is not
+THE END
